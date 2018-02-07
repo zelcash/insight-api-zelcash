@@ -1,0 +1,44 @@
+[
+  {
+    "poolName": "Someone using z-nomp!",
+    "url": "https://github.com/z-classic/z-nomp/",
+    "searchStrings": [
+      "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+    ]
+  },
+  {
+    "poolName": "Someone using equihash-solomining!",
+    "url": "https://github.com/aayanl/equihash-solomining",
+    "searchStrings": [
+      "EquihashSolominer!-github.com/aayanl/equihash-solomining"
+    ]
+  },
+  {
+    "poolName": "miningspeed",
+    "url": "http://pool.miningspeed.com",
+    "searchStrings": [
+      "miningspeed.com - http://pool.miningspeed.com"
+    ]
+  },
+  {
+    "poolName": "Magnificient pool",
+    "url": "http://zel.magnificentpool.com/",
+    "searchStrings": [
+      "magnificient"
+    ]
+  },
+  {
+    "poolName": "Coudpools",
+    "url": "http://zel.cloudpools.net/",
+    "searchStrings": [
+      "cloudpools"
+    ]
+  },
+  {
+    "poolName": "CoinBlockers",
+    "url": "https://zel.coinblockers.com/",
+    "searchStrings": [
+      "coinblockers"
+    ]
+  }
+]
