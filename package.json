@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zelcash": "git://github.com/TheTrunk/bictore-lib-zelcash#master",
-    "bitcore-message-zelcash": "git://github.com/TheTrunk/bictore-message-zelcash#master",
+    "bitcore-lib-zelcash": "git://github.com/TheTrunk/bitcore-lib-zelcash#master",
+    "bitcore-message-zelcash": "git://github.com/TheTrunk/bitcore-message-zelcash#master",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
