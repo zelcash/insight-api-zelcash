@@ -14,7 +14,7 @@
     ]
   },
   {
-    "poolName": "miningspeed",
+    "poolName": "Miningspeed",
     "url": "http://pool.miningspeed.com",
     "searchStrings": [
       "miningspeed.com - http://pool.miningspeed.com"
@@ -28,7 +28,7 @@
     ]
   },
   {
-    "poolName": "Coudpools",
+    "poolName": "CloudPools",
     "url": "http://zel.cloudpools.net/",
     "searchStrings": [
       "cloudpools"
