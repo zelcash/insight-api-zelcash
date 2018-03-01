@@ -54,5 +54,19 @@
     "searchStrings": [
       "xbtmoon"
     ]
+  },
+  {
+    "poolName": "FastBlocks",
+    "url": "https://fastblocks.net/",
+    "searchStrings": [
+      "fastblocks"
+    ]
+  },
+  {
+    "poolName": "FlowMining.org",
+    "url": "http://flowmining.org/",
+    "searchStrings": [
+      "flowmining"
+    ]
   }
 ]
