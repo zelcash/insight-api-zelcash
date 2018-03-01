@@ -47,5 +47,12 @@
     "searchStrings": [
       "equipool.1ds.us"
     ]
+  },
+  {
+    "poolName": "xbtmoon",
+    "url": "http://pool.xbtmoon.com/",
+    "searchStrings": [
+      "xbtmoon"
+    ]
   }
 ]
