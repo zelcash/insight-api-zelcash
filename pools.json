@@ -68,5 +68,12 @@
     "searchStrings": [
       "flowmining"
     ]
+  },
+  {
+    "poolName": "CloudPools (EU)",
+    "url": "http://zel-eu.cloudpools.net/",
+    "searchStrings": [
+      "http://zel-eu.cloudpools.net"
+    ]
   }
 ]
