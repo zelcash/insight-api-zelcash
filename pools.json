@@ -75,5 +75,12 @@
     "searchStrings": [
       "http://zel-eu.cloudpools.net"
     ]
+  },
+  {
+    "poolName": "AltHashers",
+    "url": "https://althashers.com/",
+    "searchStrings": [
+      "althashers"
+    ]
   }
 ]
