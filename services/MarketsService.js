@@ -37,13 +37,13 @@ MarketsService.prototype._updateInfo = function() {
         url: 'https://tradeogre.com/api/v1/ticker/BTC-ZEL',
         json: true
     }, function (err, response, body) {
-
+        body = JSON.parse(this.response);
         if (err) {
-            return self.common.log.error('Coinmarketcap error', err);
+            return self.common.log.error('Tradeogre error', err);
         }
 
         if (response.statusCode != 200) {
-            return self.common.log.error('Coinmarketcap error status code', response.statusCode);
+            return self.common.log.error('Tradeogre error status code', response.statusCode);
         }
 
         if (body && _.isArray(body) && body.length) {
@@ -65,8 +65,7 @@ MarketsService.prototype._updateInfo = function() {
             return self.info;
         }
 
-        //return self.common.log.error('Coinmarketcap error body', body);
-        return self.info;
+        return self.common.log.error('Tradeogre error body', body);
 
     });
 
