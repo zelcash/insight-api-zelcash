@@ -7,6 +7,20 @@
     ]
   },
   {
+    "poolName": "ForgeTop SOLO",
+    "url": "https://zel-solo.forgetop.com/dashboard",
+    "searchStrings": [
+      "ForgeTopSolo https://zel-solo.forgetop.com"
+    ]
+  },
+  {
+    "poolName": "ForgeTop",
+    "url": "https://zel.forgetop.com/dashboard",
+    "searchStrings": [
+      "ForgeTop https://zel.forgetop.com"
+    ]
+  },
+  {
     "poolName": "Someone using equihash-solomining!",
     "url": "https://github.com/aayanl/equihash-solomining",
     "searchStrings": [
