@@ -56,10 +56,24 @@
     ]
   },
   {
-    "poolName": "equipool.1ds.us",
+    "poolName": "Equipool Asia",
     "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
-      "equipool.1ds.us"
+      "Equipool Asia"
+    ]
+  },
+  {
+    "poolName": "Equipool Europe",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "Equipool Europe"
+    ]
+  },
+  {
+    "poolName": "Equipool North America",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "Equipool North America"
     ]
   },
   {
