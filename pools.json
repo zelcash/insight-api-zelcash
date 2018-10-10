@@ -110,5 +110,12 @@
     "searchStrings": [
       "althashers"
     ]
+  },
+  {
+    "poolName": "YouMine",
+    "url": "https://youmine.xyz",
+    "searchStrings": [
+      "YouMine https://youmine.xyz"
+    ]
   }
 ]
